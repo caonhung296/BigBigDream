@@ -8,9 +8,5 @@
         <members>*</members>
         <name>CustomField</name>
     </types>  
-    <types>
-        <members>*</members>
-        <name>Flow</name>
-    </types>  
     <version>58.0</version>
 </Package>
